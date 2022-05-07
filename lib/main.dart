@@ -15,7 +15,7 @@ void main() {
       ),
     ),
   );
-}git add .
+}
 int leftDice = 1;
 int rightDice = 6;
 class DicePage extends StatefulWidget {
